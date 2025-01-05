@@ -39,7 +39,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       categories: [filters.BRAND],
     },
     {
-      title: 'Coindragon',
+      title: 'Curitics Health',
       projectInfo:
         'Curitics Health is a low-code platform designed to optimize value-based care in healthcare. It integrates data sharing, patient engagement, and clinical workflows into a scalable and HIPAA-compliant system. The platform supports health plans, providers, and behavioral health organizations, enabling efficient care coordination, real-time data access, and reduced operational costs. Features include customizable workflows, data analytics, and telehealth support, aimed at improving clinical efficiency and patient outcomes.',
       technologies: 'HTML5, CSS3, Javascript, Next.js',
