@@ -6,12 +6,6 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
       <div className="hero-wrap">
         <div className="hero-mask opacity-8 bg-dark" />
 
-        {/* ---------------image background------------------ */}
-        <div
-          className="hero-bg parallax"
-          style={{ backgroundImage: 'url("images/profile.jpg")' }}
-        ></div>
-
         <div className="hero-content section d-flex min-vh-100">
           <div className="container my-auto">
             <div className="row">
